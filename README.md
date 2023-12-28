@@ -2,7 +2,7 @@
 
 # WELCOME TO MY PORTFOLIO
 
-### software enginnering 
+### MAYUR BHAT 
 
 
 ### Eductaion
