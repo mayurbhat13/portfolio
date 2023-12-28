@@ -16,7 +16,7 @@ hsc-- 95.6 %
 ### About myself
 Passionate Computer Engineering Student at LD College of Engineering | Aspiring Tech Enthusiast 🌟
 
- Hello! I'm [Your Name], a dedicated third-year Computer Engineering student at LD College of Engineering. With a profound grasp of languages like C++, C, and Python, coupled with expertise in data structures, algorithms, HTML, CSS, and JavaScript, I'm driven to leverage technology's power for impactful innovation.
+ Hello! I'm Mayur bhat , a dedicated third-year Computer Engineering student at LD College of Engineering. With a profound grasp of languages like C++, C, and Python, coupled with expertise in data structures, algorithms, HTML, CSS, and JavaScript, I'm driven to leverage technology's power for impactful innovation.
 
  Currently honing my skills in crafting efficient algorithms and developing robust software solutions, I'm enthusiastic about tackling complex problems with creative coding solutions. I thrive in collaborative environments and enjoy diving into the intricacies of technology to develop innovative applications.
 
@@ -30,5 +30,29 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
  ### Hobbies
  cricket,volley ball,football,kabaddi 
 
- 
+ ### Languages
+ ENGLISH
+ HINDI
+ KASHMIRI
+ DOGRI
+ PUNJABI
 
+
+ ### SKILLS 
+ C++/c
+ Data structures 
+ web development
+ SDLC
+ OS 
+ SQL
+ HTML
+ CSS
+ OOP
+ Communication 
+
+
+ ### COURSES 
+ PYTHON BOOTCAMP FROM ZERO TO HERO FRO UDDEMY
+ Harvard computer university course 
+ Ethical hacking 
+ 
