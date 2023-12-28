@@ -33,12 +33,12 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
 
 
 
- ### Hobbies
+ ### Hobbies--
  cricket,volley ball,football,kabaddi 
 
 
 
- ### Languages
+ ### Languages--
  ENGLISH
  HINDI
  KASHMIRI
@@ -48,7 +48,7 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
 
 
 
- ### SKILLS 
+ ### SKILLS---
  C++/c
  Data structures 
  web development
@@ -63,7 +63,7 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
 
 
 
- ### COURSES 
+ ### COURSES ---
  Python Booytcamp From zero to hero 
  Harvard computer university course 
  Ethical hacking 
