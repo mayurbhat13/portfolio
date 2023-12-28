@@ -6,15 +6,15 @@
 
 
 ### Eductaion
-Pursuing computer engineering from L.D. College of enineering 
-HSC from GOVT. MIXED HR. SEC. SCHOOL
-10TH CLASS FORM M.I.E. PUBLIC HIGH SCHOOL 
+Pursuing computer engineering from L.D. College of enineering,
+HSC from GOVT. MIXED HR. SEC. SCHOOL,
+10TH CLASS FORM M.I.E. PUBLIC HIGH SCHOOL, 
 
 
 
 ### Grades
 graduation--
-hsc-- 95.6 %
+,hsc-- 95.6 % ,
 10th class--9.00
 
 
@@ -51,22 +51,22 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
 
 
  ### SKILLS---
- C++/c
- Data structures 
- web development
- SDLC
- OS 
- SQL
- HTML
- CSS
- OOP
- Communication 
+ C++/c ,
+ Data structures ,
+ web development ,
+ SDLC ,
+ OS  ,
+ SQL ,
+ HTML ,
+ CSS ,
+ OOP ,
+ Communication.
 
 
 
 
  ### COURSES ---
- Python Booytcamp From zero to hero 
- Harvard computer university course 
- Ethical hacking 
+ Python Booytcamp From zero to hero  ,
+ Harvard computer university course  ,
+ Ethical hacking  .
  
