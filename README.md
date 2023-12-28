@@ -8,10 +8,14 @@ Pursuing computer engineering from L.D. College of enineering
 HSC from GOVT. MIXED HR. SEC. SCHOOL
 10TH CLASS FORM M.I.E. PUBLIC HIGH SCHOOL 
 
+
+
 ### Grades
 graduation--
 hsc-- 95.6 %
 10th class--9.00
+
+
 
 ### About myself
 Passionate Computer Engineering Student at LD College of Engineering | Aspiring Tech Enthusiast 🌟
@@ -27,8 +31,12 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
  Let's connect and explore the ever-evolving landscape of technology together! Open to collaboration, learning, and contributing to exciting projects. Feel free to reach out for discussions on tech, innovation, or anything under the digital sun!
 
 
+
+
  ### Hobbies
  cricket,volley ball,football,kabaddi 
+
+
 
  ### Languages
  ENGLISH
@@ -36,6 +44,8 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
  KASHMIRI
  DOGRI
  PUNJABI
+
+
 
 
  ### SKILLS 
@@ -51,8 +61,10 @@ Aspiring to merge my technical acumen with a passion for user-centric design, I'
  Communication 
 
 
+
+
  ### COURSES 
- PYTHON BOOTCAMP FROM ZERO TO HERO FRO UDDEMY
+ Python Booytcamp From zero to hero 
  Harvard computer university course 
  Ethical hacking 
  
